@@ -1,0 +1,13 @@
+export const BASE_URL = "http://localhost:8080/food";
+export const AUTH_API = `${BASE_URL}/auth`;
+export const USER_API = `${BASE_URL}/users`;
+export const CATEGORY_API = `${BASE_URL}/shop_category`;
+export const USER_ADDRESS_API = `${BASE_URL}/user_address`;
+export const SHOP_API = `${BASE_URL}/shop`;
+export const CATEGORY_OF_SHOP_API = `${BASE_URL}/category`;
+export const FOOD_API = `${BASE_URL}/food`;
+export const CART_API = `${BASE_URL}/cart`;
+export const ORDER_API = `${BASE_URL}/order`;
+export const SHIP_API = `${BASE_URL}/ship`;
+export const PAYMENT_API = `${BASE_URL}/payment`;
+export const NOTIFICATION_API = `${BASE_URL}/notifications`;
